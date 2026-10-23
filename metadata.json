@@ -1,0 +1,6 @@
+{
+  "name": "OUMEX",
+  "description": "Agencia digital internacional especializada en diseño web, automatización empresarial y soluciones tecnológicas para empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
